@@ -1,0 +1,72 @@
+.cards-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -15px;
+}
+
+.first-row {
+	position: relative;
+	box-sizing: border-box;
+	flex: 0 0 33%;
+	padding: 15px;
+}
+
+.second-row {
+	position: relative;
+	flex: 0 0 50%;
+	box-sizing: border-box;
+	padding: 15px;
+}
+
+.card-button {
+	max-width: 100%;
+}
+
+.cards-link {
+	position: absolute;
+	display: flex;
+	right: 27px;
+	bottom: 37px;
+}
+
+.img-title {
+	position: absolute;
+	font-family: MarkPro-Bold;
+	font-size: 24px;
+	font-weight: bold;
+	color: #1b1a26;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+
+.playst {  
+  	left: 70px;
+}
+
+.xbox {
+	left: 101px;
+}
+
+.apple {
+	left: 101px;
+}
+
+.roku {
+	left: 271px;
+}
+
+.firetv {
+	left: 270px;
+}
+
+.android {
+	left: 256px;
+}
+
+.switch {
+	left: 301px;
+}
+
+.imagine {
+	max-width: 100%;
+}

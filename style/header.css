@@ -1,0 +1,12 @@
+.header-wrapper::after {
+	display: block;
+	content: '';
+	height: 2px;
+	background-color: #ffdf00;
+}
+
+.logo-wrapper {
+	width: 95px;
+	display: block;
+	margin: 0 auto;
+}
